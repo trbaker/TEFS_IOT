@@ -1,4 +1,4 @@
-# TEFS_IOT
+# TEFS_IOT: Tech-enabled Field Studies - Internet of Things
 <table><tr><td>
 <img width=300 src="https://images-na.ssl-images-amazon.com/images/I/61UdeAjkvSL.SR160,240_BG243,243,243.jpg">
   </td><td>
